@@ -3,6 +3,8 @@ Yet Another Dialog (for Haiku)
 
 Haiku port of v1cont's [yad](https://github.com/v1cont/yad).
 
+Download: [x86_64](https://github.com/techguy16/yadku/releases/download/1.0-haiku1/yad-1.0-haiku1.hpkg)
+
 Building
 ----------------------
 
